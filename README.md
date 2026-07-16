@@ -130,7 +130,7 @@ Customer-Analytics-RFM-Segmentation-Dashboard
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Import the dataset into MySQL.
 2. Execute the SQL scripts to prepare RFM analysis.
@@ -140,7 +140,7 @@ Customer-Analytics-RFM-Segmentation-Dashboard
 
 ---
 
-##📌 Skills Demonstrated
+## Skills Demonstrated
 
 - SQL
 - Customer Analytics
@@ -167,4 +167,4 @@ Delhi Technological University
 
 ---
 
-⭐ If you found this project useful, feel free to star this repository.
+ If you found this project useful, feel free to star this repository.
